@@ -95,7 +95,7 @@ def find_package_data(
 
 
 PACKAGE = "libpythonpro"
-NAME = PACKAGE
+NAME = "libpythonpro-mvs"
 DESCRIPTION = "Módulo para exemplificar construção de projetos Python no curso PyTools"
 AUTHOR = "Marcus Vinicius Laurindo da Silva"
 AUTHOR_EMAIL = "vnc_vinicius92@hotmail.com"
