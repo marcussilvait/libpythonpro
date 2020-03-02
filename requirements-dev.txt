@@ -16,3 +16,7 @@ colorama==0.4.3
 py==1.8.1
 pytest==5.3.5
 -r requirements.txt
+
+# Deps do coverege
+coverage==5.0.3
+pytest-cov==2.8.1
