@@ -6,7 +6,7 @@ pyflakes==2.1.1
 
 # Deps do pytest
 pyparsing==2.4.6
-packaging==20.1
+packaging==20.3
 more-itertools==8.2.0
 wcwidth==0.1.8
 attrs==19.3.0
